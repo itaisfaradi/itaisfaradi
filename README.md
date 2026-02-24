@@ -17,7 +17,8 @@ I also multiple ML and LLM tools to make meaningful scientific outputs.
 ## Tools
 ![Python](https://img.shields.io/badge/Python-Scientific-informational)
 ![PyTorch](https://img.shields.io/badge/ML-PyTorch-red)
-![JAX](https://img.shields.io/badge/ML-JAX-orange)
+![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow)
+![LLMs](https://img.shields.io/badge/AI-Large%20Language%20Models-purple)
 ![Astropy](https://img.shields.io/badge/Astro-Astropy-blue)
 
 ## Collaboration
