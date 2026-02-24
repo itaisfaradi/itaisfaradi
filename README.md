@@ -7,8 +7,8 @@ I also devoloped ML and LLM tools to make meaningful scientific outputs.
 
 ## Current Projects
 - ML and AI for time-domain astronomy.
-- Supernova population study.
 - Modeling outflows from transients.
+- Supernova population study.
 
 ## Selected Code
 - jetafterglow — synchrotron modeling
