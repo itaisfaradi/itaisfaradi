@@ -3,12 +3,12 @@ Physicist | Data Scientist | Time-Domain Astrophysics | Machine Learning | Large
 
 ## Research
 I study cosmic explosions and develop computational tools connecting observations with physical models.
-I also multiple ML and LLM tools to make meaningful scientific outputs.
+I also devoloped ML and LLM tools to make meaningful scientific outputs.
 
 ## Current Projects
-- ML and AI for transient classification
-- Supernova population study
-- Modeling outflows from transients
+- ML and AI for time-domain astronomy.
+- Supernova population study.
+- Modeling outflows from transients.
 
 ## Selected Code
 - jetafterglow — synchrotron modeling
