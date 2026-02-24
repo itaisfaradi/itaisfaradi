@@ -2,8 +2,8 @@
 Physicist | Data Scientist | Time-Domain Astrophysics | Machine Learning | Large Language Models
 
 ## Research
-I study radio emission from cosmic explosions and develop
-computational tools connecting observations with physical models.
+I study cosmic explosions and develop computational tools connecting observations with physical models.
+I also multiple ML and LLM tools to make meaningful scientific outputs.
 
 ## Current Projects
 - ML and AI for transient classification
@@ -13,6 +13,12 @@ computational tools connecting observations with physical models.
 ## Selected Code
 - jetafterglow — synchrotron modeling
 - LSTransient_classifier — deep learning for real-life time series
+
+## Tools
+![Python](https://img.shields.io/badge/Python-Scientific-informational)
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-red)
+![JAX](https://img.shields.io/badge/ML-JAX-orange)
+![Astropy](https://img.shields.io/badge/Astro-Astropy-blue)
 
 ## Collaboration
 Open to collaborations in astro + ML
