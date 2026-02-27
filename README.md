@@ -11,7 +11,7 @@ I also devoloped ML and LLM tools to make meaningful scientific outputs.
 - Supernova population study.
 
 ## Selected Code
-- jetafterglow — synchrotron modeling
+- simpleglow — synchrotron modeling
 - LSTransient_classifier — deep learning for real-life time series
 
 ## Tools
